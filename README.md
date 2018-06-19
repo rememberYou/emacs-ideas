@@ -1,6 +1,8 @@
 <p align="center"><img src="assets/emacs-logo.svg" width=150 height=150/></p>
 <p align="center"><a href="https://www.gnu.org/software/emacs/"><b>GNU Emacs</b></a></p>
 <p align="center">Idea box for creating new packages.</p>
+<p align="center">This repository is <b>totally unofficial.</b></p>
+<p align="center">This suggestion box is for Emacs Lisp programs, and not GNU Emacs itself.</p>
 
 ---
 
@@ -25,3 +27,6 @@ packages, you only have to open or complete an issue in the issue tracker.
 To help the best understanding, it is necessary to respect a certain
 template. Take this [issue](https://github.com/rememberYou/emacs-ideas/issues/1)
 as an example.
+
+
+Will
