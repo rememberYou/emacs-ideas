@@ -1,7 +1,5 @@
 <p align="center"><img src="assets/emacs-logo.svg" width=150 height=150/></p>
-
 <p align="center"><a href="https://www.gnu.org/software/emacs/"><b>GNU Emacs</b></a></p>
-
 <p align="center">Idea box for creating new packages.</p>
 
 ---
