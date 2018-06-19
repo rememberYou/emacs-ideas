@@ -25,4 +25,5 @@ Whether you have a new idea or want to complement other people's ideas, it will
 help everyone.
 
 In order to better track ideas and know which ideas are already developed as
-packages, you only have to open or complete an issue in the issue tracker.
+packages, you only have to open or complete an issue in the [issue
+tracker](https://github.com/rememberYou/emacs-ideas/issues).
